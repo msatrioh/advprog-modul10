@@ -1,0 +1,9 @@
+[package]
+name = "tutorial-10"
+version = "0.1.0"
+authors = ["Rio"]
+edition = "2021"
+
+[dependencies]
+futures = "0.3"
+timer_future = { path = "../timer_future"}
